@@ -29,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
         profileBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(), "clilcekd profile",Toast.LENGTH_SHORT).show();
             }
         });
 
